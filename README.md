@@ -10,3 +10,9 @@ Other Website For Free Cource Download
 * [gigacourse.com](https://gigacourse.com/)
 
 This Project completely about the web scraping using `Selenium`, `BS4` & `Scrapy`.
+
+# Tools Info
+
+* `BeautifulSoup` is better for **beginners** and easy to learn but it doesn't have the `JS` support.
+* `Selenium` is good for `small` projects and automation.
+* `scrapy` is good for `large` project and its faster than the above two.
