@@ -11,6 +11,8 @@ Other Website For Free Cource Download
 
 This Project completely about the web scraping using `Selenium`, `BS4` & `Scrapy`.
 
+* [Xpath Playground](https://scrapinghub.github.io/xpath-playground/)
+
 # Tools Info
 
 * `BeautifulSoup` is better for **beginners** and easy to learn but it doesn't have the `JS` support.
