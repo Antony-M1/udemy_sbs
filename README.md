@@ -23,7 +23,7 @@ This Project completely about the web scraping using `Selenium`, `BS4` & `Scrapy
 # Selenium
 Create a folder with the name of `ch_driver` there you can store the `Chrome Driver` the folder `selenium_` containes the code about the `selenium` functionalities.
 
-* [To Download the Driver ⚙️⚙️](https://sites.google.com/chromium.org/driver/downloads)
+* [To Download the Driver ⚙️⚙️](https://googlechromelabs.github.io/chrome-for-testing/)
 
 For your current Version of Chrome [Click Here](chrome://settings/help) `chrome://settings/help`
 
