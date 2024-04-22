@@ -25,6 +25,6 @@ Create a folder with the name of `ch_driver` there you can store the `Chrome Dri
 
 * [To Download the Driver ⚙️⚙️](https://sites.google.com/chromium.org/driver/downloads)
 
-For your current Version of Chrome [Click Here](chrome://settings/help)
+For your current Version of Chrome [Click Here](chrome://settings/help) `chrome://settings/help`
 
 Thre you can find the current version of your selenium.
