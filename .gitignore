@@ -3,3 +3,4 @@
 .vscode
 temp
 /ch_driver
+chromedriver.exe
