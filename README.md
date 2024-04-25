@@ -31,3 +31,4 @@ Thre you can find the current version of your selenium.
 
 Extract the downloaded `.zip` file and copy the `chromedriver` from the folder and past in the `ch_driver`.
 
+*Note: Selenium fill fetch all the data even if you store a purticular elememnt in a variable from the variable you can access the other elements from that out of scope that will lead to data miss-match issue*

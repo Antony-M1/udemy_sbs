@@ -60,6 +60,6 @@ def create_file(data:T.List[T.Dict], is_json:bool=None)->None:
     if is_json:
         df.to_json(file_name+".json")
     else:
-        df.to_excel(file_name+".xlsx", index=True)
+        df.to_excel(file_name+".xlsx", index=False)
 
 create_file(final_data)
